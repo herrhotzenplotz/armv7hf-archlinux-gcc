@@ -1,0 +1,6 @@
+armv7hf-archlinux-gcc.tar.xz
+build/
+dist/
+distfiles/
+src/
+stamp/
